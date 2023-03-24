@@ -4,5 +4,5 @@ Record your Pantry URI below:
 
 
 
-c5091982-8991-4960-8fe8-a5486e7dc0ec
 
+https://getpantry.cloud/apiv1/pantry/<PANTRY_ID>/basket/<BASKET>
