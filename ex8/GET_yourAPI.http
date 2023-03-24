@@ -1,0 +1,12 @@
+GET  HTTP/1.1
+Host: 
+Content-Type: application/json
+
+## List of APIs: https://github.com/public-apis/public-apis
+##
+## GET information from another API of your choosing, it must respond its status as 200 OK.
+##
+##   Write 2 to 3 sentences on the kinds of information that was provided from the API,
+## with specific information from the response.
+##
+## Your reply below ------------------------------------------------------

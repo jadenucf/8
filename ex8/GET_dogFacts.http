@@ -1,0 +1,17 @@
+GET  HTTP/1.1
+Host: 
+Content-Type: application/json
+
+## API Link: https://dukengn.github.io/Dog-facts-API/
+##
+## GET all the dog facts at once.
+##
+##   If the status was not 200 OK, explain the status message received in your own comments below.
+## Write 2 to 3 sentences using the https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+## as a reference. Keep in mind that some status codes will still trigger,
+## even if you do not input the route properly. This will be accounted for as part of the grade.
+##
+##   If the status was 200 OK, write 2 to 3 sentences on the kinds of information
+## that was provided from the API, with specific information from the response.
+##
+## Your reply below ------------------------------------------------------
